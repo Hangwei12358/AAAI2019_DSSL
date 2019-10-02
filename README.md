@@ -29,7 +29,7 @@ bash z_run_all.sh
 Something to note:
 
 -  Note that some of the file paths may need to be modified to your own paths.
--  WISDM dataset do not contain Null class. If the codes are applied to other datasets with Null class, kindly uncoment the codes of F-measure calculation in `micro_macro_PR_WISDM.m` accordingly. 
+-  WISDM dataset do not contain Null class. If the codes are applied to other datasets with Null class, kindly uncomment the codes of F-measure calculation in `micro_macro_PR_WISDM.m` accordingly. 
 
 
 
