@@ -1,0 +1,9 @@
+Error validating server certificate for 'https://svn.cms.waikato.ac.nz:443':
+ - The certificate is not issued by a trusted authority. Use the
+   fingerprint to validate the certificate manually!
+Certificate information:
+ - Subject: EMAILADDRESS=dns@waikato.ac.nz, CN=svn.cms.waikato.ac.nz, O=University of Waikato, L=Hamilton, ST=Waikato, C=NZ
+ - Valid: from Mon Aug 31 13:23:52 NZST 2015 until Fri Sep 01 07:38:02 NZST 2017
+ - Issuer: CN=StartCom Class 2 Primary Intermediate Server CA, OU=Secure Digital Certificate Signing, O=StartCom Ltd., C=IL
+ - Fingerprint: e1:e5:5f:89:59:22:8c:9b:75:93:28:98:23:51:9e:5f:c4:3f:74:7b
+(R)eject, accept (t)emporarily or accept (p)ermanently? 
