@@ -1,0 +1,16 @@
+precomputedK_t2_l2_g0.01_k0.1.txt
+precomputedK_t2_l2_g0.01_k1.txt
+precomputedK_t2_l2_g0.01_k10.txt
+precomputedK_t2_l2_g0.01_k100.txt
+precomputedK_t2_l2_g0.1_k0.1.txt
+precomputedK_t2_l2_g0.1_k1.txt
+precomputedK_t2_l2_g0.1_k10.txt
+precomputedK_t2_l2_g0.1_k100.txt
+precomputedK_t2_l2_g1_k0.1.txt
+precomputedK_t2_l2_g1_k1.txt
+precomputedK_t2_l2_g1_k10.txt
+precomputedK_t2_l2_g1_k100.txt
+precomputedK_t2_l2_g10_k0.1.txt
+precomputedK_t2_l2_g10_k1.txt
+precomputedK_t2_l2_g10_k10.txt
+precomputedK_t2_l2_g10_k100.txt
