@@ -19,7 +19,7 @@ Codes for AAAI 2019 paper "Distribution-based Semi-Supervised Learning for Activ
 The codes are tested in Ubuntu 14.04, with Matlab R2017b.
 
 
-Current file contains codes on [WISDM v1.1 dataset(http://www.cis.fordham.edu/wisdm/dataset.php#actitracker). 
+Current file contains codes on [WISDM v1.1 dataset](http://www.cis.fordham.edu/wisdm/dataset.php#actitracker). 
 
 To run the code, please run the following script:
 '''
