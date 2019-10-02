@@ -16,7 +16,7 @@ Codes for AAAI 2019 paper "Distribution-based Semi-Supervised Learning for Activ
 > ```
 
 
-The codes are tested in Ubuntu 14.04, with Matlab R2017b.
+The codes are tested in Ubuntu 14.04, with Matlab R2017b. The data preprocessing needs two Matlab packages to be installed, i.e., `matlab2weka` and `weka`, as shown in folder `/Code_Matlab`.
 
 
 Current file contains codes on [WISDM v1.1 dataset](http://www.cis.fordham.edu/wisdm/dataset.php#actitracker). 
